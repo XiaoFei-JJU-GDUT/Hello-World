@@ -1,3 +1,4 @@
 <?php
-    echo "Hello World!";
+    echo "I love fishc.com";
+    echo "Hello World"
 ?>
